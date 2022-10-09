@@ -18,6 +18,11 @@
   overflow: hidden;
 }
 
+#player {
+  margin-left: 16vw;
+}
+
+
 .box li{
   position: absolute;
   display: block;
